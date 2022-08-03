@@ -19,5 +19,5 @@ npm run build
 ```
 
 you can deploy to github.io with github action [pages.yml](.github/workflows/pages.yml)
-
+ 
 demo [github-page](https://nursyah21.github.io/template-vue-vite-tailwindcss/)
