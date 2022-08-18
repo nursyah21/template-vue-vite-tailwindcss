@@ -1,5 +1,9 @@
 <template>
 
-  <h1>template vite vue tailwindcss</h1>
+  <div class="p-3">
+
+    <h1>hello world</h1>
+
+  </div>
 
 </template>
